@@ -1,8 +1,9 @@
 ---
-title: Hello World!
+title: Titulo da página
 featuredImage: /images/uploads/isabella juskova.jpg
 subtitle: This is the home page subtitle
 meta:
+  noindex: false
   title: ''
 ---
 
